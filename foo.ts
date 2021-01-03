@@ -1,5 +1,5 @@
 function foo(bar) {
     return "hello " + bar;
 }
-var baz = "ABC";
+let baz = "ABC";
 console.log(foo(baz));
