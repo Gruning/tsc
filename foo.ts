@@ -1,4 +1,4 @@
-function foo(bar) {
+function foo(bar?: number[]) {
     return "hello " + bar;
 }
 let baz = "ABC";
